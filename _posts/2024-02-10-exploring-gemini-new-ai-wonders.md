@@ -1,7 +1,7 @@
 ---
 title: Exploring Gemini's New AI Wonders
 author: Jihad
-date: 2024-03-23 15:30:00 
+date: 2024-03-24 03:09:04 +0000 
 modified: true
 permalink: exploring-gemini-new-ai-wonders
 excerpt: Gemini, the renowned tech giant, has once again mesmerized the world with its latest AI innovations. In this blog post, we'll delve into the groundbreaking advancements brought forth by Gemini's new AI.
