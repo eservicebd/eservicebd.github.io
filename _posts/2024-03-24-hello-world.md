@@ -6,7 +6,7 @@ modified: true
 permalink: exploring-gemini-new-ai-wonders
 excerpt: Gemini, the renowned tech giant, has once again mesmerized the world with its latest AI innovations. In this blog post, we'll delve into the groundbreaking advancements brought forth by Gemini's new AI.
 categories: [Artificial Intelligence, Technology]
-tags: [Gemini, AI, Innovation]
+tags: [Gemini, Innovation]
 pin: true
 image:
   path: /assets/img/gemeni.webp
